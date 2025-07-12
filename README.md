@@ -1,2 +1,4 @@
 # word-cloud
 Word cloud generation using textual data
+
+This Google Colab notebook is designed to generate a word cloud from textual data sourced from Tata Consultancy Services (TCS). It allows users to visualize the most frequently occurring words in a dataset, such as employee feedback, survey responses, or internal communications. The notebook guides users through the complete process—loading the data (CSV, Excel, or text format), cleaning and preprocessing the text (lowercasing, removing punctuation, stopwords, and special characters), and generating a word cloud using the WordCloud library. The output offers an intuitive and visually appealing summary of dominant themes and sentiments present in the data, helping stakeholders quickly identify patterns and focus areas. This tool is especially useful for HR analytics, sentiment analysis, or organizational feedback studies, and is easily customizable for different data sources or word cloud aesthetics.
